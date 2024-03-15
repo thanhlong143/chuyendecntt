@@ -1,0 +1,9 @@
+openpyxl
+numerize
+streamlit-option-menu
+streamlit_extras
+plotly-express
+scikit-learn
+seaborn
+matplotlib
+streamlit
